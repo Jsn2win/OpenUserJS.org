@@ -6,7 +6,7 @@
   "dependencies": {
     "ace-builds": "1.4.12",
     "ansi-colors": "4.1.1",
-    "async": "3.2.0",
+    "async": "3.2.2",
     "@octokit/auth-oauth-app": "4.1.2",
     "aws-sdk": "2.890.0",
     "base62": "2.0.1",
